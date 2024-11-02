@@ -1,0 +1,16 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="Theme.LoginRegister" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary color for the theme -->
+        <item name="colorPrimary">@color/primary</item>
+
+        <!-- Dark variant of the primary color -->
+        <item name="colorPrimaryDark">@color/black</item>
+
+        <!-- Accent color for components like floating action buttons, etc. -->
+        <item name="colorAccent">@color/white</item>
+
+        <!-- Standard text color attributes if needed -->
+        <item name="android:textColorPrimary">@color/gray</item> <!-- Primary text color -->
+        <!-- Standard attribute for text color -->
+    </style>
+</resources>
